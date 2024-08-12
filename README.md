@@ -17,7 +17,7 @@ This Chrome extension automates the login process for college's WiFi network by 
 
 2. **Load the Extension in Chrome**
 
-    - Open Chrome and navigate to [click](chrome://extensions/.)
+    - Open Chrome and navigate to chrome://extensions/.
     - Enable "Developer mode" by toggling the switch in the top right corner.
     - Click on "Load unpacked" and select the folder where you extracted or cloned the extension.
 
