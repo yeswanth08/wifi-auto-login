@@ -35,13 +35,13 @@ function fillFormAndSubmit() {
   const userNameFields = document.getElementsByName("username");
   if (userNameFields.length > 0) {
     // 1 Enter your registration number
-    userNameFields[0].value = "12210320";
+    userNameFields[0].value = "Enter your reg number";
   }
 
   const passwordFields = document.getElementsByName("password");
   if (passwordFields.length > 0) {
     // 2 Enter your Internet password
-    passwordFields[0].value = "Curious@2003";
+    passwordFields[0].value = "Enter your password";
   }
 
   const loginButton = document.getElementById("loginbtn");
