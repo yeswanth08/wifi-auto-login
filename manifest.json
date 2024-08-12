@@ -1,0 +1,11 @@
+{
+  "name": "LPU Internet",
+  "version": "1.0.0",
+  "description": "College WiFi Auto Login",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab", "tabs"]
+}
